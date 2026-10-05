@@ -1,0 +1,6 @@
+{
+  "name": "Al-Asim Solar World & Electro/Gas Centre",
+  "description": "Explore solar, electrical and energy-related products and services from Al-Asim Solar World & Electro/Gas Centre in Rahim Yar Khan. Contact us for product information and inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
